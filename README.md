@@ -11,7 +11,7 @@ Age: 19📍
 <a href="https://github.com/anxo2077"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"></a>
 
 ---
-## Stats
+## 𝕾𝖙𝖆𝖙𝖘
 
 <a href="https://github.com/anxo2077"><img src="https://github-readme-stats.vercel.app/api?username=anxo2077&show_icons=true&theme=radical"></a>
 
@@ -27,7 +27,7 @@ Age: 19📍
 
 </p>
 
-## c̲o̲n̲n̲e̲c̲t̲i̲o̲n̲s̲
+## 𝔠𝔬𝔫𝔫𝔢𝔠𝔱𝔦𝔬𝔫𝔰
 <div> 
   <a href="https://www.youtube.com/channel/UCDbYHpkLNRmwNKHFXqFmYUQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "https://api.whatsapp.com/send?phone=+573225236629&text=%F0%9F%8E%B4"><img src="https://img.shields.io/badge/whatsapp-blackgreen?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
