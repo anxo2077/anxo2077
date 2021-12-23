@@ -1,16 +1,4 @@
-### Dev <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="30px">
-<p align="center">
-
-
-&nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   
-
----
-
 <img src="https://horca.files.wordpress.com/2017/06/tumblr_op5wlbggxd1vxnjybo1_1280.gif" alt="anxo2077">
-
----
-
-<a href="https://github.com/anxo2077"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"></a>
 
 </p>
 
@@ -19,6 +7,10 @@ Name: anxo2077
 Age: 19📍
 
 Contact: wa.me/573225236629
+
+---
+
+<a href="https://github.com/anxo2077"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"></a>
 
 ---
 ## Stats
