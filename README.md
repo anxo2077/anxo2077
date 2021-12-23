@@ -6,8 +6,6 @@ Name: anxo2077
 
 Age: 19📍
 
-Contact: wa.me/573225236629
-
 ---
 
 <a href="https://github.com/anxo2077"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"></a>
