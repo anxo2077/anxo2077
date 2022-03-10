@@ -3,7 +3,7 @@
 <p align="center">Age: 18📍</p>
 <p align="center"><a href="https://github.com/anxo2077"><img src="https://github-readme-stats.vercel.app/api?username=anxo2077&show_icons=true&theme=radical"></a></p>
 
-<p align="center">## CONNECTIONS</p>
+<p align="center">CONNECTIONS</p>
 <div> 
   <p align="center">
   <a href="https://www.youtube.com/channel/UCDbYHpkLNRmwNKHFXqFmYUQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
