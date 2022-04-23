@@ -1,4 +1,4 @@
-<a href="https://github.com/anxo2077"><img src="https://cardivo.vercel.app/api?name=Anxo2077&description=Hi,%20i%27m%20Fahri%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://wallpaperaccess.com/full/7857767.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@senpai_chan_gemoy&github=FahriAdison&pattern=leaf&colorPattern=%23eaeaea" /><a>
+<a href="https://github.com/anxo2077"><img src="https://cardivo.vercel.app/api?name=Anxo2077&description=Hi,%20i%27m%20Anxo2077%20and%20i%27m%20just%20a%20newbie%20programmer👋&image=https://avatars.githubusercontent.com/u/78989681?v=4&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@anxo2077&github=anxo2077&pattern=leaf&colorPattern=%23eaeaea" /><a>
 <p align="center">Name: anxo2077</p>
 <p align="center">Age: 18📍</p>
 <p align="center">Made with ♥ in Bali, Indonesia</p>
