@@ -12,7 +12,7 @@
  <a href="https://discord.gg/TE7J65mPtM" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   </p>
   <div align="center">
-  <a href="https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB?si=41e8747afd944077">
+  <a href="https://open.spotify.com/user/6pbw0k6kv4t0vifwtksmo9r7s?si=8e50dbb494a0492a">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
