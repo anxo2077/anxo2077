@@ -12,7 +12,7 @@
  <a href="https://discord.gg/TE7J65mPtM" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   </p>
   <div align="center">
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6pbw0k6kv4t0vifwtksmo9r7s&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 </div>
 </div>
  <details>
