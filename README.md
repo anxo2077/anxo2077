@@ -2,7 +2,7 @@
 <p align="center">Name: anxo2077</p>
 <p align="center">Age: 18📍</p>
 <p align="center">Made with ♥ in Medellin, Colombia</p>
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=6pbw0k6kv4t0vifwtksmo9r7s&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile"/>
+https://spotify-github-profile.vercel.app/api/view?uid=6pbw0k6kv4t0vifwtksmo9r7s&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile
 <p align="center">CONNECTIONS</p>
 <div> 
   <p align="center">
