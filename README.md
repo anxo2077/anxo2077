@@ -1,4 +1,5 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6pbw0k6kv4t0vifwtksmo9r7s&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 <a href="https://github.com/anxo2077"><img src="https://cardivo.vercel.app/api?name=Anxo2077&description=Hi,%20i%27m%20Anxo2077%20and%20i%27m%20just%20a%20newbie%20programmer👋&image=https://avatars.githubusercontent.com/u/78989681?v=4&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@anxo2077&github=anxo2077&pattern=leaf&colorPattern=%23eaeaea" /><a>
 <p align="center">Name: anxo2077</p>
 <p align="center">Age: 18📍</p>
@@ -11,9 +12,6 @@
   <a href="https://www.instagram.com/anxo2077/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/TE7J65mPtM" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   </p>
-  <div align="center">
-
-</div>
 </div>
  <details>
   <summary>My stats in Github</summary>
