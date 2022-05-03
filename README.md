@@ -5,10 +5,10 @@
 <p align="center">Connect with me:</p>
 <div> 
   <p align="center">
-  <a href="https://www.youtube.com/channel/UCDbYHpkLNRmwNKHFXqFmYUQ" target="_blank"><img src="https://www.svgrepo.com/show/157839/youtube.svg" width="100" height="100"></a>
-  <a href = "https://api.whatsapp.com/send?phone=+573225236629&text=%F0%9F%8E%B4"><img src="https://www.svgrepo.com/show/354560/whatsapp.svg" width="100" height="100"></a>
-  <a href="https://www.instagram.com/anxo2077/" target="_blank"><img src="https://www.svgrepo.com/show/111199/instagram.svg" width="100" height="100"></a>
- <a href="https://discord.gg/TE7J65mPtM" target="_blank"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="100" height="100"></a> 
+  <a href="https://www.youtube.com/channel/UCDbYHpkLNRmwNKHFXqFmYUQ" target="_blank"><img src="https://www.svgrepo.com/show/157839/youtube.svg" width="30" height="30"></a>
+  <a href = "https://api.whatsapp.com/send?phone=+573225236629&text=%F0%9F%8E%B4"><img src="https://www.svgrepo.com/show/354560/whatsapp.svg" width="30" height="30"></a>
+  <a href="https://www.instagram.com/anxo2077/" target="_blank"><img src="https://www.svgrepo.com/show/111199/instagram.svg" width="30" height="30"></a>
+ <a href="https://discord.gg/TE7J65mPtM" target="_blank"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="30" height="30"></a> 
   </p>
   <div align="center">
 <a href="https://open.spotify.com/user/6pbw0k6kv4t0vifwtksmo9r7s?si=2f79d78bd9fb4e08"><img src="https://spotify-github-profile.vercel.app/api/view?uid=6pbw0k6kv4t0vifwtksmo9r7s&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" /><a>
