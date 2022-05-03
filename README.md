@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/anxo2077/" target="_blank"><img src="https://www.svgrepo.com/show/111199/instagram.svg" width="30" height="30"></a>
   </p>
   <div align="center">
-    <a href="https://open.spotify.com/user/6pbw0k6kv4t0vifwtksmo9r7s?si=2f79d78bd9fb4e08"><img src="https://spotify-github-profile.vercel.app/api/view? uid=6pbw0k6kv4t0vifwtksmo9r7s&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" /><a>
+<a href="https://open.spotify.com/user/6pbw0k6kv4t0vifwtksmo9r7s?si=2f79d78bd9fb4e08"><img src="https://spotify-github-profile.vercel.app/api/view? uid=6pbw0k6kv4t0vifwtksmo9r7s&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" /><a>
   </div>
 </div>
 <details>
