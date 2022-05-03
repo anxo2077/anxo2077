@@ -2,7 +2,7 @@
 <p align="center">Name: anxo2077</p>
 <p align="center">Age: 18📍</p>
 <p align="center">Made with ♥ in Medellin, Colombia</p>
-  
+<a href="https://github.com/anxo2077"><img src=" https://spotify-github-profile.vercel.app/api/view?uid=6pbw0k6kv4t0vifwtksmo9r7s&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile /><a>
 <p align="center">CONNECTIONS</p>
 <div> 
   <p align="center">
@@ -12,7 +12,7 @@
  <a href="https://discord.gg/TE7J65mPtM" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   </p>
   <div align="center">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6pbw0k6kv4t0vifwtksmo9r7s&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 </div>
 </div>
  <details>
