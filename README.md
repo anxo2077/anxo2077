@@ -13,7 +13,6 @@
 <a href="https://open.spotify.com/user/6pbw0k6kv4t0vifwtksmo9r7s?si=2f79d78bd9fb4e08"><img src="https://spotify-github-profile.vercel.app/api/view?uid=6pbw0k6kv4t0vifwtksmo9r7s&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=53b14f" /><a>
   </div>
 </div>
-    https://zombsroyale.app.link/NFv9xgZfOpb
 <details>
  <summary>My stats in Github</summary>
  <p align="center"><a href="https://github.com/anxo2077"><img src="https://github-readme-stats.vercel.app/api?username=anxo2077&show_icons=true&theme=radical"></a></p>
