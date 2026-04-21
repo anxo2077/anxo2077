@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=anxo2077&fontSize=60&fontColor=00ff41&fontAlignY=38&desc=building%20from%20zero%20to%20something&descAlignY=60&descSize=16&descColor=888888)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:9b59b6,100:0d1117&height=200&section=header&text=anxo2077&fontSize=60&fontColor=c084fc&fontAlignY=38&desc=building%20from%20zero%20to%20something&descAlignY=60&descSize=16&descColor=888888)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=CS+Student+%7C+Software+Engineer+in+progress;Building+bots%2C+apps+%26+everything+in+between;Learning+every+single+day+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=CS+Student+%7C+Software+Engineer+in+progress;Building+bots%2C+apps+%26+everything+in+between;Learning+every+single+day+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 </div>
 
@@ -35,27 +35,27 @@ Status   : Learning, building, breaking things
 **Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
-![Lua](https://img.shields.io/badge/Lua-0d1117?style=for-the-badge&logo=lua&logoColor=2C2D72)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=c084fc)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=c084fc)
+![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=c084fc)
+![Lua](https://img.shields.io/badge/Lua-0d1117?style=for-the-badge&logo=lua&logoColor=c084fc)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=c084fc)
 
 **Frameworks & Runtimes**
 
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Discord.js](https://img.shields.io/badge/Discord.js-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-0d1117?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=c084fc)
+![Discord.js](https://img.shields.io/badge/Discord.js-0d1117?style=for-the-badge&logo=discord&logoColor=c084fc)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-0d1117?style=for-the-badge&logo=jetpackcompose&logoColor=c084fc)
 
 **Databases & Tools**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=c084fc)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=c084fc)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=009639)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=c084fc)
+![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=c084fc)
 
 ---
 
@@ -86,11 +86,11 @@ Status   : Learning, building, breaking things
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=anxo2077&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&icon_color=00ff41&title_color=00ff41&text_color=c9d1d9&hide_border=false&rank_icon=github)
+![Stats](https://github-readme-stats.vercel.app/api?username=anxo2077&show_icons=true&bg_color=0d1117&border_color=9b59b6&icon_color=c084fc&title_color=c084fc&text_color=c9d1d9&hide_border=false&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anxo2077&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=c9d1d9&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anxo2077&layout=compact&bg_color=0d1117&border_color=9b59b6&title_color=c084fc&text_color=c9d1d9&hide_border=false)
 
-![Streak](https://streak-stats.demolab.com?user=anxo2077&theme=dark&background=0d1117&border=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=888888&dates=888888)
+![Streak](https://streak-stats.demolab.com?user=anxo2077&background=0d1117&border=9b59b6&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideLabels=888888&dates=888888)
 
 </div>
 
@@ -100,8 +100,8 @@ Status   : Learning, building, breaking things
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-anxo2077-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=00ff41)](https://github.com/anxo2077)
-[![Discord](https://img.shields.io/badge/Discord-beta__-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=0d1117&color=5865F2)](https://discord.com)
+[![Instagram](https://img.shields.io/badge/Instagram-anxo.2077-0d1117?style=for-the-badge&logo=instagram&logoColor=c084fc&labelColor=0d1117&color=9b59b6)](https://www.instagram.com/anxo.2077/)
+[![Discord](https://img.shields.io/badge/Discord-zapatoderecho-0d1117?style=for-the-badge&logo=discord&logoColor=c084fc&labelColor=0d1117&color=9b59b6)](https://discord.com)
 
 </div>
 
@@ -113,6 +113,6 @@ Status   : Learning, building, breaking things
 // still compiling... but shipping anyway
 ```
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:9b59b6,100:0d1117&height=100&section=footer)
 
 </div>
