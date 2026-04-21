@@ -22,11 +22,15 @@ Focus    : Full-stack dev, Android, Discord bots
 Status   : Learning, building, breaking things
 ```
 
-- 🎓 Studying **Software Development** — web, mobile & backend
-- 🤖 Building a production-grade **Discord bot** (discord.js v14 + MongoDB)
-- 📱 Developing **Android apps** with Kotlin & Jetpack Compose
-- 🎯 Goal: Land an **SDE internship** and keep shipping real projects
-- ⚡ I also write **Lua** for game mods because why not
+![study](https://img.shields.io/badge/Studying-Software_Development-0d1117?style=flat-square&logo=googlescholar&logoColor=c084fc) web, mobile & backend
+
+![bot](https://img.shields.io/badge/Building-Discord_Bot-0d1117?style=flat-square&logo=discord&logoColor=c084fc) discord.js v14 + MongoDB — production grade
+
+![android](https://img.shields.io/badge/Developing-Android_Apps-0d1117?style=flat-square&logo=android&logoColor=c084fc) Kotlin & Jetpack Compose
+
+![goal](https://img.shields.io/badge/Goal-SDE_Internship-0d1117?style=flat-square&logo=target&logoColor=c084fc) keep shipping real projects
+
+![lua](https://img.shields.io/badge/Also-Lua_for_game_mods-0d1117?style=flat-square&logo=lua&logoColor=c084fc) because why not
 
 ---
 
